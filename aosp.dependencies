@@ -1,5 +1,9 @@
 [
   {
+    "repository":  "WiZaRd981/android_device_xiaomi_jasmine_sprout",
+    "target_path": "device/xiaomi/jasmine_sprout",
+    "branch":      "evo"
+  {
     "repository":  "xiaomi-sdm660/android_kernel_xiaomi_sdm660",
     "target_path": "kernel/xiaomi/sdm660",
     "branch":      "kernel.lnx.4.4.r38-rel-wifi"
